@@ -1,0 +1,165 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.navbar-nav li a{
+  font-size: 17px;
+}
+.navbar-brand{
+  letter-spacing: 2px;
+}
+
+.homeImg{
+  height: 100vh;
+  object-fit: cover;
+}
+
+/* General */
+.bg-prim{
+  background-color: #182747;
+}
+
+.bg-sec{
+  background-color: #562B08;
+}
+
+.bg-tri{
+  background-color: #647E68;
+}
+
+.bg-tetr{
+  background-color: #D8D8D8;
+}
+
+.text-prim{
+  color: #182747
+}
+
+.text-sec{
+  color: #562B08
+}
+
+.text-tri{
+  color: #647E68
+}
+
+.text-tetr{
+  color: #D8D8D8
+}
+
+.btn-outline-prim{
+  background-color:transparent !important;
+  color: #182747 !important;
+  border: 2px solid #182747 !important ;
+}
+
+.btn-outline-prim:hover{
+  background:#182747 !important;
+  color: white !important;
+  border: 1px solid #182747 !important;
+}
+
+.btn-prim{
+  background:#182747 !important;
+  color: white !important;
+  border: 1px solid #182747 !important;
+}
+.btn-prim:hover{
+  transform: scale(1.08,1.08);
+  transition-property: all;
+  transition-duration: 0.3s;
+  transition-timing-function: linear;
+}
+
+
+.btn-outline-sec{
+  background-color:transparent !important;
+  color: #562B08 !important;
+  border: 1px solid #562B08 !important;
+}
+
+.btn-outline-sec:hover{
+  background-color:#562B08 !important;
+  color: white !important;
+  border: 1px solid transparent !important;
+}
+
+.btn-sec{
+  background-color:#562B08 !important;
+  color: white !important;
+  border: 1px solid transparent !important;
+}
+
+.btn-sec:hover{
+  transform: scale(1.08,1.08);
+  transition-property: all;
+  transition-duration: 0.3s;
+  transition-timing-function: linear;
+}
+
+/* Home */
+.img-home{
+  transition: all 2s linear;
+  border-radius: 50%;
+  }
+
+.img-home:hover{
+transform: rotate(360deg);
+}
+
+/* Card */
+.card{
+  transition: all,1s,ease-in-out;
+}
+
+.card:hover{
+  transform: scale(1.1);
+  box-shadow: 5px 5px 10px rgba(00, 0, 0, 0.5);
+}
+
+.catBtn{
+  transition: all,0.5s,linear;
+}
+
+.catBtn:hover{
+  transform: scale(1.1)
+}
+
+
+/* ProductDetails */
+.productImg{
+  transition-property: all;
+  transition-duration: 0.5s;
+  transition-timing-function: linear;
+}
+.productImg:hover{
+  transform: scale(1.1) rotate(360deg);
+}
+
+/* Product */
+
+.prodCart{
+  transition-property: all;
+  transition-duration: 0.5s;
+  transition-timing-function: linear;
+}
+
+.prodCart:hover{
+  transform: scale(1.1);
+}
+
+/* Footer */
+.ourFooter{
+  position:static;
+  bottom: 0vh;
+}

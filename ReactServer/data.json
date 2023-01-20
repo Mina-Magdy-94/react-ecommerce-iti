@@ -1,0 +1,77 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "IPhone 11",
+      "price": "750$",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium vero voluptate quibusdam corporis magnam officia sequi repellat repellendus tempora ipsa temporibus necessitatibus quo unde voluptas nobis cupiditate, laborum exercitationem laudantium!",
+      "imgSrc": "/assets/images/products/iphone11.jpg",
+      "category": "mobile",
+      "quantity":5
+    },
+    {
+      "id": 2,
+      "title": "IPhone 12",
+      "price": "800$",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium vero voluptate quibusdam corporis magnam officia sequi repellat repellendus tempora ipsa temporibus necessitatibus quo unde voluptas nobis cupiditate, laborum exercitationem laudantium! random text 2",
+      "imgSrc": "/assets/images/products/iphone12.jpg",
+      "category": "mobile",
+      "quantity":4
+    },
+    {
+      "id": 3,
+      "title": "IPhone 13",
+      "price": "850$",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium vero voluptate quibusdam corporis magnam officia sequi repellat repellendus tempora ipsa temporibus necessitatibus quo unde voluptas nobis cupiditate, laborum exercitationem laudantium! random text 3",
+      "imgSrc": "/assets/images/products/iphone13.jpg",
+      "category": "mobile",
+      "quantity":3
+    },
+    {
+      "id": 4,
+      "title": "IPhone 14",
+      "price": "950$",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium vero voluptate quibusdam corporis magnam officia sequi repellat repellendus tempora ipsa temporibus necessitatibus quo unde voluptas nobis cupiditate, laborum exercitationem laudantium! random text 4",
+      "imgSrc": "/assets/images/products/iphone14.jpg",
+      "category": "mobile",
+      "quantity":2
+    },
+    {
+      "id": 5,
+      "title": "laptop 1",
+      "price": "750$",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium vero voluptate quibusdam corporis magnam officia sequi repellat repellendus tempora ipsa temporibus necessitatibus quo unde voluptas nobis cupiditate, laborum exercitationem laudantium!",
+      "imgSrc": "/assets/images/products/lap1.jpg",
+      "category": "lap",
+      "quantity":1
+    },
+    {
+      "id": 6,
+      "title": "laptop 2",
+      "price": "800$",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium vero voluptate quibusdam corporis magnam officia sequi repellat repellendus tempora ipsa temporibus necessitatibus quo unde voluptas nobis cupiditate, laborum exercitationem laudantium! random text 2",
+      "imgSrc": "/assets/images/products/lap2.jpg",
+      "category": "lap",
+      "quantity":4
+    },
+    {
+      "id": 7,
+      "title": "laptop 3",
+      "price": "850$",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium vero voluptate quibusdam corporis magnam officia sequi repellat repellendus tempora ipsa temporibus necessitatibus quo unde voluptas nobis cupiditate, laborum exercitationem laudantium! random text 3",
+      "imgSrc": "/assets/images/products/lap3.jpg",
+      "category": "lap",
+      "quantity":7
+    },
+    {
+      "title": "laptop 4",
+      "price": "100$",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium vero voluptate quibusdam corporis magnam officia sequi repellat repellendus tempora ipsa temporibus necessitatibus quo unde voluptas nobis cupiditate, laborum exercitationem laudantium! random text 4",
+      "imgSrc": "/assets/images/products/lap4.jpg",
+      "category": "lap",
+      "id": 8,
+      "quantity":3
+    }
+    
+  ]
+}
